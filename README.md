@@ -2,7 +2,7 @@
 
 A real-time stock price dashboard built with React, TypeScript, and Tailwind CSS. This project was developed as a coding challenge to demonstrate proficiency in modern web development practices.
 
-![Stock Dashboard Screenshot](public/screenshot.png)
+![Stock Dashboard Screenshot](public/image.png)
 
 ## 🚀 Live Demo
 
